@@ -15,7 +15,7 @@ Whether you're preparing to travel or just exploring virtually, this app is your
 ## ✨ Features
 
 - **📍 Smart Destination Input**  
-  Type in any major city — even with typos — and the app will suggest corrections.
+  Type in any destination city you will visit. The app will suggest corrections if there is any typo.
 
 - **🗺️ Top Attractions**  
   Discover iconic landmarks you shouldn’t miss.
@@ -28,6 +28,7 @@ Whether you're preparing to travel or just exploring virtually, this app is your
 
 - **🖼️ City Image**  
   View a photo of the destination for quick visual context.
+<img width="512" height="740" alt="Screenshot 2025-07-28 at 00 18 21" src="https://github.com/user-attachments/assets/3649e374-b02e-4adc-acec-26ff9a73548b" />
 
 ---
 
